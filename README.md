@@ -1,3 +1,6 @@
 # Trading-Algorithm-
 
-Just having fun trying out interesting projects 
+Just having fun trying out interesting projects!! 
+One of my failed projects, but it was fun trying to figure out how to make this come life which i still failed...
+I will come back to redeem myself...
+
